@@ -1,8 +1,8 @@
-import Hero from './compenents/Hero'
-import Intro from './compenents/Intro'
-import Updates from './compenents/Updates'
-import Ending from './compenents/Ending'
-import Footer from './compenents/Footer'
+import Hero from "./compenets/Hero";
+import Intro from "./compenets/Intro";
+import Updates from "./compenets/Updates";
+import Ending from "./compenets/Ending";
+import Footer from "./compenets/Footer";
 
 export default function App() {
   return (
